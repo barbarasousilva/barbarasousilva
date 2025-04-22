@@ -1,4 +1,4 @@
-# ✨ Barbara Silva
+# 👩‍💻 Barbara Silva
 
 Especialista em Arquitetura de Sistemas | Desenvolvedora .NET | Dev de BH em SP
 
